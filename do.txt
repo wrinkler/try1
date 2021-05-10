@@ -1,5 +1,3 @@
 #timelog
 #0508local modify 
 01ok
-#0510local modify
-00sorry
